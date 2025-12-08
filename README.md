@@ -44,6 +44,7 @@ Please note that the Application utilizes third-party services that have their o
 *   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 *   [Expo](https://expo.io/privacy)
 *   [RevenueCat](https://www.revenuecat.com/privacy)
+*   [AppWrite](https://appwrite.io/privacy)
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
 
